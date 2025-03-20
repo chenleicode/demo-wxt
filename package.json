@@ -2,7 +2,7 @@
   "name": "chenlei-extension-1",
   "description": "A extension demo by Chen Lei",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "wxt",
